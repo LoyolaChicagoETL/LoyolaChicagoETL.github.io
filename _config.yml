@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Emerging Technologies Laboratory
-# email: your-email@domain.com
+email: etl@cs.luc.edu
 description: |
   Emerging Technologies Laboratory (ETL)  
   Department of Computer Science  
